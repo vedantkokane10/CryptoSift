@@ -1,0 +1,13 @@
+{
+    "name" : "CryptoSift",
+    "version" : "0.0.1",
+    "manifest_version" : 2,
+    "browser_action" : {
+        "default_popup" : "index.html",
+        "default_icon" : "logo2.png"
+    },
+    "icon" :  {
+      
+    },
+    "permissions" : ["activeTab"]
+}
